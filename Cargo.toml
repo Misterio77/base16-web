@@ -1,5 +1,5 @@
 [package]
-name = "flavoursweb"
+name = "base16-web"
 version = "0.1.0"
 authors = ["Gabriel Fontes <g.fontes@usp.br>"]
 edition = "2018"
